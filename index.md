@@ -1,37 +1,79 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="en">
+<head>
 
-You can use the [editor on GitHub](https://github.com/Hoppe-Horn/politica-privacidade/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="format-detection" content="telephone=no">
+	<link rel="shortcut icon" href="data:image/x-icon;," type="image/x-icon">
+	<title>Privacy Policy</title>
+	
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+</head>
+<body>
 
-### Markdown
+	<h2>Privacy Policy</h2>
+	<p>Hoppe & Horn Advocacia Empresarial built the Hoppe & Horn Advocacia Empresarial app as a Commercial app. This SERVICE is provided by Hoppe & Horn Advocacia Empresarial and is intended for use as is.</p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+	<p>This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.</p>
 
-```markdown
-Syntax highlighted code block
+	<p>If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.</p>
 
-# Header 1
-## Header 2
-### Header 3
+	<p>The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at Hoppe & Horn Advocacia Empresarial unless otherwise defined in this Privacy Policy.</p>
 
-- Bulleted
-- List
+	<h2>Information Collection and Use</h2>
 
-1. Numbered
-2. List
+	<p>For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to e-mail password. The information that we request will be retained by us and used as described in this privacy policy.</p>
 
-**Bold** and _Italic_ and `Code` text
+	<p>The app does use third-party services that may collect information used to identify you.</p>
 
-[Link](url) and ![Image](src)
-```
+	<p>Link to the privacy policy of third-party service providers used by the app</p>
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+	<p>Google Play Services</p>
+	<p>Log Data</p>
 
-### Jekyll Themes
+	<p>We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.</p>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Hoppe-Horn/politica-privacidade/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+	<p>Cookies</p>
 
-### Support or Contact
+	<p>Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.</p>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+	<p>This Service does not use these “cookies” explicitly. However, the app may use third-party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.</p>
+
+	<p>Service Providers</p>
+
+	<p>We may employ third-party companies and individuals due to the following reasons:</p>
+
+	<p>To facilitate our Service;</p>
+	<p>To provide the Service on our behalf;</p>
+	<p>To perform Service-related services; or</p>
+	<p>To assist us in analyzing how our Service is used.</p>
+	<p>We want to inform users of this Service that these third parties have access to their Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.</p>
+
+	<p>Security</p>
+
+	<p>We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.</p>
+
+	<p>Links to Other Sites</p>
+
+	<p>This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.</p>
+
+	<p>Children’s Privacy</p>
+
+	<p>These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13 years of age. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do the necessary actions.</p>
+
+	<p>Changes to This Privacy Policy</p>
+
+	<p>We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.</p>
+
+	<p>This policy is effective as of 2022-07-14</p>
+
+	<p>Contact Us</p>
+
+	<p>If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at hoppe.horn.advogados@gmail.com.</p>
+
+	<p>This privacy policy page was created at privacypolicytemplate.net and modified/generated by App Privacy Policy Generator</p>
+
+</body>
+</html>
